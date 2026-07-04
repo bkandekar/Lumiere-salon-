@@ -1,0 +1,6 @@
+{
+  "name": "Lumière Salon",
+  "description": "Modern beauty salon app for booking hair, skin, and spa services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
